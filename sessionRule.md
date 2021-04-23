@@ -1,16 +1,16 @@
 ### 📃 세션은 아래과 같이 열어주세요.
 
 1. 카카오톡 화면 오른쪽 위 설정버튼 클릭
-<img src="/images/1.jpg" width="150" height="300">
+<img src="/images/1.jpg" width="200" height="400">
 
 2. 캘린터 클릭
-<img src="/images/2.jpg" width="150" height="300">
+<img src="/images/2.jpg" width="200" height="400">
 
 3. 일정 등록 클릭
-<img src="/images/3.jpg" width="150" height="300">
+<img src="/images/3.jpg" width="200" height="400">
 
 4. 일정 등록
-<img src="/images/4.jpg" width="150" height="300">
+<img src="/images/4.jpg" width="200" height="400">
 
 ---
 
